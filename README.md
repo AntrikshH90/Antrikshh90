@@ -18,7 +18,28 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"># 🚀 Antriksh | AIML Enthusiast & Code Explorer 👨‍💻
+
+I am a first-year BTech student specializing in Artificial Intelligence and Machine Learning (AIML) at Kanpur. I have a passion for programming and problem-solving, and I am continuously learning and exploring the world of technology.
+
+## About Me
+- 🧑‍💻 Programming Languages: C, C++, Python
+- 🎓 Currently learning AIML concepts and building hands-on projects
+- 🌱 Always leveling up my skills in AI/ML and software development
+- 📚 Enthusiast of engineering math and algorithmic puzzle solving
+
+## What I’m Building
+- Core projects in C, C++, and Python
+- Diving deep into machine learning algorithms and applications
+- Preparing for AKTU exams and coding challenge battles
+
+## Connect and Collaborate
+Check out my repositories, drop a star, or get in touch!
+
+Thanks for stopping by my digital space!
+
+---
+*Crafted to showcase a tech journey with passion and purpose.*</h1>
 
 ###
 
