@@ -6,9 +6,8 @@
         <h3>Artificial Intelligence & Machine Learning</h3>
       </td>
       <td width="40%" align="center">
-        <!-- LINK TO YOUR PROFILE IMAGE HERE -->
-        <!-- Upload your professional photo to the images folder as profile.jpg -->
-        <img src="images/profile.jpg" width="300" style="border-radius: 50%;" alt="Antriksh Yadav Profile Photo" />
+        <!-- Using your official GitHub Profile Picture automatically -->
+        <img src="https://github.com/AntrikshH90.png" width="250" style="border-radius: 50%; border: 5px solid #36BCF7;" alt="Antriksh Yadav Profile Photo" />
       </td>
       <td width="30%" align="center">
         <h2><b>Antriksh Yadav</b></h2>
@@ -22,7 +21,7 @@
   <!-- Institutional Branding similar to ZOHO/UIC in your screenshot -->
   <b>Student at</b> <img src="https://img.shields.io/badge/AKTU-Axis_Institute-0044CC?style=flat&logo=unacademy&logoColor=white" /> 
   &nbsp; 
-  <b>Campus Leader at</b> <img src="https://img.shields.io/badge/IIT_Guwahati-Campus_Ambassador-EF4444?style=flat&logo=itunes&logoColor=white" />
+  <b>Campus Representative</b> <img src="https://img.shields.io/badge/IIT_Guwahati-Campus_Ambassador-EF4444?style=flat&logo=itunes&logoColor=white" />
 </div>
 
 <br>
@@ -43,36 +42,38 @@ I'm a first-year undergraduate student at **Dr. A.P.J. Abdul Kalam Technical Uni
 - 👨‍💻 **Role:** Member of Google Developer Group (GDG) & VIBE CODDER.
 - 💡 **Passion:** Deep Learning, Predictive Data Analytics, and Generative AI.
 - 🏛️ **Leadership:** Actively serving as a Campus Ambassador for IIT Guwahati.
-- 🎓 **Credentials:** McKinsey Forward Program Scholar & Google Cloud Innovator.
+- 🎓 **Credentials:** McKinsey Forward Program Scholar, HP Global Graduate & Google Cloud Innovator.
 
 ---
 
-## 🎖️ Licenses & Certifications
-To build my technical depth early, I have completed simulations and certifications from world-renowned firms:
+## 🎖️ Active Licenses & Certifications
+*Showcasing industrial simulation expertise:*
 
-| Provider | Certification / Job Simulation |
+| Provider | Professional Title / Certification |
 | :--- | :--- |
-| **Google** | Google Analytics Certification |
-| **McKinsey & Company** | McKinsey Forward Program Scholar |
-| **Deloitte Australia** | Data Analytics Job Simulation |
-| **Goldman Sachs** | Controllers Job Simulation |
-| **Commonwealth Bank** | Introduction to Cybersecurity Job Simulation |
-| **Google Cloud** | Google Cloud Innovator & NVIDIA Community |
+| **Google** | Google Analytics Individual Qualification |
+| **McKinsey & Company** | McKinsey Forward Program Scholar (Strategic Thinking) |
+| **Deloitte Australia** | Data Analytics & Visualization Job Simulation |
+| **Goldman Sachs** | Financial Controllers & Analysis Job Simulation |
+| **Commonwealth Bank** | Cybersecurity Fundamentals Job Simulation |
+| **HP / Adobe** | Digital Marketing & Business Analytics Badges |
 
 ---
 
 ## 📚 I'm Currently Learning
-Following the **[HTML-Mastery-Roadmap](https://github.com/AntrikshH90/HTML-Mastery-Roadmap)**, I am currently mastering these core technologies:
+*Following my personalized roadmaps:*
 
-- **CS101:** Introduction to Python for Machine Learning.
-- **CS102:** Data Structures and Algorithms with C/C++.
-- **CS201:** Semantic Front-End Architecture & SEO Optimization.
-- **Research:** Investigating the impact of Generative AI on Modern UI/UX.
+- **[Mastery-HTML-Roadmap](https://github.com/AntrikshH90/HTML-Mastery-Roadmap):** Semantic Design & Accessibility.
+- **Data Structures (AKTU):** Optimizing logic in C-programming.
+- **Google Cloud:** Foundational Cloud Architecture for AI workloads.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Languages and Tools
+*My core technical environment:*
+
 <div align="center">
+  <br>
   <img src="https://skillicons.dev/icons?i=py,c,cpp,mysql,github,git,vscode,googlecloud,adobe,figma&perline=10" />
 </div>
 
@@ -80,9 +81,25 @@ Following the **[HTML-Mastery-Roadmap](https://github.com/AntrikshH90/HTML-Maste
 
 ---
 
+## 📊 Analytics
 <div align="center">
-  <i>"Passionate about creating the next paradigm of Intelligent Systems."</i><br>
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=antrikshh90&show_icons=true&theme=nord&rank_icon=github&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=4285F4" alt="Main Stats" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=antrikshh90&theme=nord&hide_border=true&background=0d1117&ring=4285F4&fire=EA4335&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <p align="center"><i>"Passionate about creating the next paradigm of Intelligent Systems."</i></p>
   <b>Let's Connect:</b> 
-  <a href="https://linkedin.com/in/antriksh97"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:antrikshyadav97@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/antriksh97"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:antrikshyadav97@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
