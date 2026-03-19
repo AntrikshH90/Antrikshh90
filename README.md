@@ -1,48 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=280&section=header&text=Hi,%20I'm%20Antriksh%20Yadav%20👋&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%" />
+  <table border="0">
+    <tr>
+      <td width="30%" align="center">
+        <h2><b>First-Year B.Tech student</b></h2>
+        <h3>Artificial Intelligence & Machine Learning</h3>
+      </td>
+      <td width="40%" align="center">
+        <!-- LINK TO YOUR PROFILE IMAGE HERE -->
+        <!-- Upload your professional photo to the images folder as profile.jpg -->
+        <img src="images/profile.jpg" width="300" style="border-radius: 50%;" alt="Antriksh Yadav Profile Photo" />
+      </td>
+      <td width="30%" align="center">
+        <h2><b>Antriksh Yadav</b></h2>
+        <h3>Ambassador @ IIT-G</h3>
+      </td>
+    </tr>
+  </table>
   
-  <h3><b>🧠 AI & ML Enthusiast | 🎓 McKinsey Forward Scholar | 🏛️ Ambassador @ IIT-G</b></h3>
+  <br>
   
-  <p>First-year B.Tech AIML student specializing in Artificial Intelligence and Machine Learning at <a href="#">Axis Institute of Technology and Management (AKTU)</a>.</p>
-  
-  <a href="https://linkedin.com/in/antriksh97">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:antrikshyadav97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://g.dev/Antriksh97">
-    <img src="https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
+  <!-- Institutional Branding similar to ZOHO/UIC in your screenshot -->
+  <b>Student at</b> <img src="https://img.shields.io/badge/AKTU-Axis_Institute-0044CC?style=flat&logo=unacademy&logoColor=white" /> 
+  &nbsp; 
+  <b>Campus Leader at</b> <img src="https://img.shields.io/badge/IIT_Guwahati-Campus_Ambassador-EF4444?style=flat&logo=itunes&logoColor=white" />
 </div>
 
 <br>
 
-## 🚀 About My Journey
-As a forward-thinking student, I am deeply passionate about harnessing **Artificial Intelligence and Machine Learning** to solve real-world challenges. My approach to technology is driven by a desire to blend technical precision with creative problem-solving. Whether it's developing C-programs algorithms or analyzing predictive models, I focus on writing **clean, structured, and open-source code**.
+---
 
-- 🔭 **Focusing On**: Deep-diving into Python for AIML, Data Structures in C/C++, and scalable problem-solving.
-- 🌱 **Learning**: Generative AI, Predictive Modeling, and Systems Architecture.
-- 👨‍💻 **Organizing**: Check out my heavily-structured **[B.Tech 1st Semester Repository](https://github.com/AntrikshH90)** where I open-source everything I study!
-- ⚡ **Fun fact**: I believe maintaining a beautifully structured Git workflow is just as important as the code itself!
+## Hey! 👋
+<div align="left">
+  <img src="https://profile-counter.glitch.me/antrikshh90/count.svg" alt="Visitors" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/antrikshh90?label=Followers&style=social" />
+</div>
+
+### I'm Antriksh Yadav!
+
+I'm a first-year undergraduate student at **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**, specializing in **Artificial Intelligence and Machine Learning (AIML)**. I have a mission to architect high-impact AI solutions while maintaining a professional, open-source presence.
+
+- 👨‍💻 **Role:** Member of Google Developer Group (GDG) & VIBE CODDER.
+- 💡 **Passion:** Deep Learning, Predictive Data Analytics, and Generative AI.
+- 🏛️ **Leadership:** Actively serving as a Campus Ambassador for IIT Guwahati.
+- 🎓 **Credentials:** McKinsey Forward Program Scholar & Google Cloud Innovator.
 
 ---
 
-## 🏆 Featured Achievements
-| Role / Distinction           | Organization & Details                                                |
-| :--------------------------- | :-------------------------------------------------------------------- |
-| **B.Tech AIML Student**      | AKTU (2025-2029)                                                      |
-| **Campus Ambassador**        | IIT Guwahati (Acting as a collegiate leader for tech initiatives)     |
-| **Program Scholar**          | McKinsey Forward (Focusing on strategic & analytical problem-solving) |
-| **Innovator & Tech Member**  | Google Cloud Innovator, NVIDIA Community Member                       |
+## 🎖️ Licenses & Certifications
+To build my technical depth early, I have completed simulations and certifications from world-renowned firms:
+
+| Provider | Certification / Job Simulation |
+| :--- | :--- |
+| **Google** | Google Analytics Certification |
+| **McKinsey & Company** | McKinsey Forward Program Scholar |
+| **Deloitte Australia** | Data Analytics Job Simulation |
+| **Goldman Sachs** | Controllers Job Simulation |
+| **Commonwealth Bank** | Introduction to Cybersecurity Job Simulation |
+| **Google Cloud** | Google Cloud Innovator & NVIDIA Community |
 
 ---
 
-## 🛠️ Languages and Tools
-Here are the core technologies and environments that power my workflow:
+## 📚 I'm Currently Learning
+Following the **[HTML-Mastery-Roadmap](https://github.com/AntrikshH90/HTML-Mastery-Roadmap)**, I am currently mastering these core technologies:
 
+- **CS101:** Introduction to Python for Machine Learning.
+- **CS102:** Data Structures and Algorithms with C/C++.
+- **CS201:** Semantic Front-End Architecture & SEO Optimization.
+- **Research:** Investigating the impact of Generative AI on Modern UI/UX.
+
+---
+
+## 🛠️ Tech Stack & Skills
 <div align="center">
-  <br>
   <img src="https://skillicons.dev/icons?i=py,c,cpp,mysql,github,git,vscode,googlecloud,adobe,figma&perline=10" />
 </div>
 
@@ -50,40 +80,9 @@ Here are the core technologies and environments that power my workflow:
 
 ---
 
-## 📊 GitHub Analytics
-
-These real-time statistics demonstrate my consistency, workflow, and technical habits. Let's build together! 
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=antrikshh90&show_icons=true&theme=nord&rank_icon=github&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=4285F4" alt="Main Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=antrikshh90&theme=nord&hide_border=true&background=0d1117&ring=4285F4&fire=EA4335&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <i>"Passionate about creating the next paradigm of Intelligent Systems."</i><br>
+  <b>Let's Connect:</b> 
+  <a href="https://linkedin.com/in/antriksh97"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:antrikshyadav97@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshh90&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="Top Langs" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antrikshh90&theme=onestar&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/antrikshh90/count.svg" alt="Visitors" />
-</div>
-
-<br>
-<p align="center"><i>Thank you for visiting! I am open to technical interviews, open-source collaborations, and professional networking. Reach out anytime!</i></p>
