@@ -63,6 +63,7 @@ I'm a first-year undergraduate student at **Dr. A.P.J. Abdul Kalam Technical Uni
 ## 📚 I'm Currently Learning
 *Following my personalized roadmaps:*
 
+- **[🐍 Python Roadmap (0 → Advanced)](./PYTHON_ROADMAP.md):** Theory, coding questions, practice projects — everything from scratch to expert level.
 - **[Mastery-HTML-Roadmap](https://github.com/AntrikshH90/HTML-Mastery-Roadmap):** Semantic Design & Accessibility.
 - **Data Structures (AKTU):** Optimizing logic in C-programming.
 - **Google Cloud:** Foundational Cloud Architecture for AI workloads.
